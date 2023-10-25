@@ -1,2 +1,2 @@
 # rug.nl-domain-list
-A list of domain ending in rug.nl. May be useful for your assigement.
+25k rug.nl domain, may be useful for your assigement.
